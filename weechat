@@ -1,0 +1,11 @@
+#Reduce nick names
+/set weechat.look.prefix_align_max 10
+
+#Change time format
+/set weechat.look.buffer_time_format ""
+
+#Enable mouse
+/enable mouse
+
+#Turn off nicklist
+/bar nicklist toggle
